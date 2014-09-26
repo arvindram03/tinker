@@ -1,4 +1,4 @@
 tinker
 ======
 
-Platform agnostic push notification service
+Platform agnostic database sync
